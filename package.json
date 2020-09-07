@@ -33,7 +33,7 @@
     "moment-timezone": "0.5.14",
     "reflect-metadata": "0.1.10",
     "rxjs": "5.5.6",
-    "zone.js": "0.8.19"
+    "zone.js": "0.8.29"
   },
   "devDependencies": {
     "angular2-template-loader": "0.6.2",
