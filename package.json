@@ -23,7 +23,7 @@
     "@types/lodash": "4.14.91",
     "@types/node": "8.5.2",
     "@types/webpack": "4.41.22",
-    "@types/webpack-env": "1.13.3",
+    "@types/webpack-env": "1.15.2",
     "angular-in-memory-web-api": "0.5.2",
     "bootstrap": "4.0.0-beta.3",
     "core-js": "2.5.3",
